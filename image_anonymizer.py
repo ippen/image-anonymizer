@@ -1,5 +1,4 @@
 import streamlit as st
-import torch
 from PIL import Image, ImageFilter, ImageDraw
 import io
 from ultralytics import YOLO
